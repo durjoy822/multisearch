@@ -1,8 +1,8 @@
-<script>
-    var data = @json($cData);
-    var appData = @json($appData);
-    var app = @json($app);
-</script>
+{{--<script>--}}
+{{--    var data = @json($cData);--}}
+{{--    var appData = @json($appData);--}}
+{{--    var app = @json($app);--}}
+{{--</script>--}}
 <!-- Jquery Library-->
 <script src="{{ asset('assets/admin/js/jquery-3.2.1.min.js') }}"></script>
 <!-- morris charts -->

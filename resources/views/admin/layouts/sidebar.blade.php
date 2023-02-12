@@ -12,29 +12,10 @@
                     <a href="{{route('service.index')}}">Services </a>
                 </li>
                 <li>
-                    <a href="login.html">Login </a>
+                    <a href="{{route('excel.index')}}">Excel</a>
                 </li>
-                <li>
-                    <a href="sign-up.html">Sign Up</a>
-                </li>
-                <li>
-                    <a href="404.html">404</a>
-                </li>
-                <li>
-                    <a href="blank-page.html">Blank Page</a>
-                </li>
-                <li>
-                    <a href="pricing.html">Pricing</a>
-                </li>
-                <li>
-                    <a href="faq.html">FAQ</a>
-                </li>
-                <li>
-                    <a href="invoice.html">Invoice</a>
-                </li>
-                <li>
-                    <a href="blank-page.html">Coming Soon</a>
-                </li>
+
+
             </ul>
         </li>
     </ul>
