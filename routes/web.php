@@ -29,5 +29,3 @@ Route::post('/service_search', [SerachController::class, 'serviceSearch'])->name
 
 
 
-Route::get('/excel', [ExcelController::class, 'excelIndex'])->name('excel.index');
-Route::post('/import_excel', [ExcelController::class, 'importExcel'])->name('import.excel');

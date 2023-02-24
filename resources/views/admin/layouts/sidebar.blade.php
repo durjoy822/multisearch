@@ -11,10 +11,7 @@
                 <li>
                     <a href="{{route('service.index')}}">Services </a>
                 </li>
-                <li>
-                    <a href="{{route('excel.index')}}">Excel</a>
-                </li>
-
+               
 
             </ul>
         </li>
